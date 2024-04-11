@@ -1,0 +1,24 @@
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.botao-lilas {
+    background-color: #9353ff;
+    border: none;
+}
+
+.verde-limao {
+    color:#daff01;
+
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
